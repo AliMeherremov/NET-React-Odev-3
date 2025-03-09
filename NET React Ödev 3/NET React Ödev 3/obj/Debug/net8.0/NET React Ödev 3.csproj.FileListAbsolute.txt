@@ -1,0 +1,14 @@
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\bin\Debug\net8.0\NET React Ödev 3.exe
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\bin\Debug\net8.0\NET React Ödev 3.deps.json
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\bin\Debug\net8.0\NET React Ödev 3.runtimeconfig.json
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\bin\Debug\net8.0\NET React Ödev 3.dll
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\bin\Debug\net8.0\NET React Ödev 3.pdb
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\NET React Ödev 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\NET React Ödev 3.AssemblyInfoInputs.cache
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\NET React Ödev 3.AssemblyInfo.cs
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\NET React Ödev 3.csproj.CoreCompileInputs.cache
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\NET React Ödev 3.dll
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\refint\NET React Ödev 3.dll
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\NET React Ödev 3.pdb
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\NET React Ödev 3.genruntimeconfig.cache
+C:\Users\meher\source\repos\NET React Ödev 3\NET React Ödev 3\obj\Debug\net8.0\ref\NET React Ödev 3.dll
